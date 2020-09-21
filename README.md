@@ -1,4 +1,4 @@
-## OM TOKEN
+## RFuel TOKEN
 
 ## Dependencies
 
@@ -10,8 +10,8 @@
 
     - migrations/2_deploy_migration.js
     
-        const name = "OM Token";
-        const symbol = "OM";
+        const name = "Rio Fuel Token";
+        const symbol = "RFuel";
         const decimals = 18;
             
     - .secret
